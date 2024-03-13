@@ -3,6 +3,8 @@
 
 
 You can also find all 50 answers here 👉 Devinterview.io - Caching
+https://devinterview.io/questions/software-architecture-and-system-design/caching-interview-questions/
+
 
 1. Define caching in the context of computer programming.
 Caching involves storing frequently accessed or computed data in a faster but smaller memory to expedite future access.
